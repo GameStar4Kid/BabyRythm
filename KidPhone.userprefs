@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../UnitySourceCode/Word-Search-Classic-master/Assets/Plugins/Vungle/Vungle.cs">
+    <Files>
+      <File FileName="../UnitySourceCode/Word-Search-Classic-master/Assets/Scripts/GameMain.cs" Line="1" Column="1" />
+      <File FileName="../UnitySourceCode/Word-Search-Classic-master/Assets/Scripts/Advertisements/VungleAdManager.cs" Line="1" Column="1" />
+      <File FileName="../UnitySourceCode/Word-Search-Classic-master/Assets/Plugins/Vungle/Vungle.cs" Line="28" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
